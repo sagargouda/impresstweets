@@ -83,6 +83,12 @@ function App() {
 
 
   return (
+      <>
+          <div className="app-logo">
+             <h1>IMPRESS TWEET</h1>
+          </div>
+
+
      <div className="editor">
 
           {/* tweet settings */}
@@ -326,7 +332,14 @@ function App() {
 
 
          </div>
+
+
      </div>
+
+          <div className="footer">
+              <p>Created By <a href="https://github.com/sagargouda" target="_blank">@sagyrrr</a> </p>
+          </div>
+      </>
   );
 }
 

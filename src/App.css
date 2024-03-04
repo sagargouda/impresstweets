@@ -239,3 +239,23 @@ color: rgb(113, 118, 123);
     bottom: 18px;
 }
 
+.footer{
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.app-logo{
+    width: 100%;
+    height: 20px;
+    text-align: center;
+    margin-top: 20px;
+
+}
+.app-logo h1{
+    font-size: 50px;
+
+}
